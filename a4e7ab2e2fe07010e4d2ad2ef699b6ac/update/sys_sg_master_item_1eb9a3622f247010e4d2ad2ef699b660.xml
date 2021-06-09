@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_539672_shopping_shopping_item</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Shopping Item Form Screen">deb9a3622f247010e4d2ad2ef699b65b</embedded_screen>
+        <item_view/>
+        <name>Shopping Item master_item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-08 07:29:17</sys_created_on>
+        <sys_id>1eb9a3622f247010e4d2ad2ef699b660</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Shopping Item master_item</sys_name>
+        <sys_package display_value="Shopping List" source="x_539672_shopping">a4e7ab2e2fe07010e4d2ad2ef699b6ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">a4e7ab2e2fe07010e4d2ad2ef699b6ac</sys_scope>
+        <sys_update_name>sys_sg_master_item_1eb9a3622f247010e4d2ad2ef699b660</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-08 07:29:17</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Shopping Item List Screen View Config">ceb9a3622f247010e4d2ad2ef699b62e</view_config>
+    </sys_sg_master_item>
+</record_update>
